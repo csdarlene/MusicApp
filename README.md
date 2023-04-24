@@ -34,6 +34,7 @@ Structural Design Patterns: Restriction & Summing data
   - Comment the first step (line15-18)
   - Uncomment the first step (line21-23)
   - Run Application
+  
 - Extra:
   - Go to application.Application
   - Comment the first step (line21-23)
